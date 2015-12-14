@@ -1,0 +1,9 @@
+{
+    "path" : "~/Developer/sf_crime_prediction",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

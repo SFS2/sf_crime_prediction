@@ -1,0 +1,17 @@
+{
+    "contents" : "# History files\n.Rhistory\n.Rapp.history\n\n# Session Data files\n.RData\n\n# Example code in package build process\n*-Ex.R\n\n# RStudio files\n.Rproj.user/\n  \n  # produced vignettes\n  vignettes/*.html\nvignettes/*.pdf\n\n# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3\n.httr-oauth\n\n#csv files\n*.csv",
+    "created" : 1450126225940.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1459397095",
+    "id" : "B6D834D0",
+    "lastKnownWriteTime" : 1450126259,
+    "path" : "~/Developer/sf_crime_prediction/R.gitignore",
+    "project_path" : "R.gitignore",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "text"
+}
